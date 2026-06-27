@@ -2,7 +2,7 @@
 
 Physis API is the future core vocabulary layer for Orbis Mundi projects.
 
-It is not a gameplay mod. In this alpha, it only exposes the shared pieces currently needed by Thalassa.
+It is not a gameplay mod. In this alpha, it only exposes the shared pieces currently needed by my other mods (eg. Thalassa).
 
 ## 0.0.1-alpha Scope
 
