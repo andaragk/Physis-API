@@ -1,5 +1,9 @@
 package me.andaragk.physis.api.ocean;
 
+/**
+ * @deprecated Moved conceptually to Topos Core depth profiles. Kept only as an alpha compatibility bridge.
+ */
+@Deprecated(forRemoval = false, since = "0.0.2")
 public enum OceanDepthBand {
     SURFACE(0),
     LITTORAL_EPIPELAGIC(1),
